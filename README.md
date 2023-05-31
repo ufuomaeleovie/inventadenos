@@ -4,7 +4,9 @@
 Hi there, Cloud / DevOps Engineer here 
 
 
-I am Ufuoma EleOvie, I'm a DevOps Engineer. 
+I am Ufuoma EleOvie
+
+I'm a DevOps Engineer. 
 I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 🌱 I’m currently CKA and AWS SAA certified: I love Kubernetes by the way
 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
