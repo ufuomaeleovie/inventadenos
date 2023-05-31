@@ -9,6 +9,7 @@ I am passionate about Cloud engineering, DevOps culture, Infrastructure Automati
 😊 Pronouns: he/him
 ⚡ Fun fact: I love to travel
 📖 My best quote is “Failure is only possible when we abandon persistence
+![image](https://github.com/inventadenos/inventadenos/assets/110242994/230040d3-a997-4a1a-82d0-47f70f7662c7)
 <!---
 inventadenos/inventadenos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
